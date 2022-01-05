@@ -3,7 +3,7 @@ const view = /*html*/ `
     <div class="Header-main">
         <div class="Header-logo">
             <h1>
-                <a href="/">
+                <a href="/cientifico">
                     100tifi.co
                 </a>
             </h1>
