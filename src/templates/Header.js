@@ -17,7 +17,7 @@ const view = /*html*/ `
 
 `;
 
-return view
+    return view;
 };
 
 export default Header;
